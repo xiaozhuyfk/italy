@@ -139,7 +139,7 @@ image:
       <td>Florence - Venice</td>
       <td>Venice</td>
       <td> </td>
-      <td> </td>
+      <td><a href="/italy/assets/pdf/venice.pdf">pdf</a></td>
       <td> </td>
     </tr>
     <tr>
@@ -148,9 +148,7 @@ image:
       <td>Venice - Milan</td>
       <td>Milan</td>
       <td> </td>
-      <td> 
-        <a href="/italy/assets/pdf/milan.pdf">pdf</a>
-      </td>
+      <td><a href="/italy/assets/pdf/milan.pdf">pdf</a></td>
       <td> </td>
     </tr>
     <tr>
