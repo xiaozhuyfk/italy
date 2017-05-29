@@ -5,6 +5,8 @@ description: Itinerary
 image: 
 ---
 
+Click here for the digital copy of the itinerary: &nbsp; <a href="/italy/assets/pdf/itinerary.pdf">pdf</a> &nbsp;&nbsp; <a href="/italy/assets/pdf/itinerary.xlsx">xlsx</a>
+
 <!--
 | 日期       | Day | 城市                                    | 住宿城市  | 活动  | 住宿 | 交通 |
 |------------|-----|----------------------------------------|----------|------|------|------|
