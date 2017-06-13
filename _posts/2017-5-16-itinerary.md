@@ -146,7 +146,7 @@ Click here for the digital copy of the itinerary: &nbsp; <a href="/italy/assets/
           <li>Piazzale Michelangelo 米开朗琪罗广场</li>
         </ul>
       </td>
-      <td> </td>
+      <td><a href="/italy/assets/pdf/florence.pdf">pdf</a></td>
       <td> </td>
     </tr>
     <tr>
